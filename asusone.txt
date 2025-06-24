@@ -1,1 +1,3 @@
 asusone new1.txt
+I have new 2.txt 
+I do not have 3.txt
